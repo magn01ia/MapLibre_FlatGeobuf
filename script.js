@@ -23,6 +23,6 @@ var map = new maplibregl.Map({
             },
         ],
     },
-    center: [139.73411, 36.31444],
+    center: [140.8830781, 38.2615922],
     zoom: 13,
 });
